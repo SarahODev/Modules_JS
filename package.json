@@ -1,0 +1,25 @@
+{
+  "name": "modules_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Accounting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./Accounting.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahODev/Modules_JS.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "modules"
+  ],
+  "author": "Sarah Ortiz",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SarahODev/Modules_JS/issues"
+  },
+  "homepage": "https://github.com/SarahODev/Modules_JS#readme"
+}
